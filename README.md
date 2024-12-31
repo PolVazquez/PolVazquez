@@ -13,7 +13,7 @@ I'm a developer passionate about technology. I enjoy working on backend and fron
 
 💡 **Professional goal:** Make my code cleaner than my desk (a significant challenge).  
 ⚙️ **What motivates me:** Solving complex problems and maintaining constant learning in an ever-evolving technological world.  
-⚡ In my free time, I work on my portfolio and test technologies that will probably make me question my life choices (anyone said CSS?).
+⚡ In my free time, I work on my portfolio and test technologies that will probably make me question my life choices.
 
 ---
 
