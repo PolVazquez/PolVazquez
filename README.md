@@ -1,6 +1,7 @@
 # 👨‍💻 ¡Hola! Soy Pol Vázquez Albarracín - Software Developer  
 
 ![Banner](./bannerGithubv1.0.png)
+[![GitHub followers](https://img.shields.io/github/followers/PolVazquez?style=social)](https://github.com/PolVazquez)
 
 ---
 
