@@ -1,22 +1,22 @@
-# 👨‍💻 ¡Hola! Soy Pol Vázquez Albarracín - Software Developer  
+# 👨‍💻 Hello! I'm Pol Vázquez Albarracín - Software Developer  
 
 ![Banner](./bannerGithubv1.0.png)
 [![GitHub followers](https://img.shields.io/github/followers/PolVazquez?style=social)](https://github.com/PolVazquez)
 
 ---
 
-## 🤖 Sobre mí  
+## 🤖 About Me  
 
-¡Hola, no soy un robot (aunque lo parezca por mi código bien estructurado)!  
-Soy un desarrollador apasionado por la tecnología y las soluciones eficientes. Disfruto trabajando en proyectos backend y frontend, siempre con un enfoque centrado en la experiencia del usuario.  
+Hi, I'm not a robot (although my code might suggest otherwise)!  
+I'm a developer passionate about technology. I enjoy working on backend and frontend projects, always with a focus on user experience.  
 
-💡 **Objetivo profesional:** Hacer que el código sea más limpio que mi escritorio (un desafío considerable).  
-⚙️ **Lo que me motiva:** Resolver problemas complejos y mantener un aprendizaje constante en un mundo tecnológico en constante evolución.  
-⚡ En mi tiempo libre, desarrollo mi portfolio y pruebo tecnologías que probablemente me harán cuestionar mis elecciones de vida (¿alguien dijo CSS?).
+💡 **Professional goal:** Make my code cleaner than my desk (a significant challenge).  
+⚙️ **What motivates me:** Solving complex problems and maintaining constant learning in an ever-evolving technological world.  
+⚡ In my free time, I work on my portfolio and test technologies that will probably make me question my life choices (anyone said CSS?).
 
 ---
 
-## 🌟 Habilidades Técnicas  
+## 🌟 Technical Skills  
 
 ### 🛠️ Backend  
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
@@ -33,51 +33,60 @@ Soy un desarrollador apasionado por la tecnología y las soluciones eficientes. 
 - ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=dotnet&logoColor=white)  
 - ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white)  
 
-### 🗄️ Bases de Datos  
+### 🗄️ Databases  
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-### ☁️ DevOps y Metodologías  
+### ☁️ DevOps and Methodologies  
 - ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)  
 - Agile (Scrum, Kanban)  
 
-### 📋 Arquitecturas y Frameworks  
-- MVC, MVVM, N Capas, Microservicios  
+### 📋 Architectures and Frameworks  
+- MVC, MVVM, N Layers, Microservices  
 - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white)  
 - LINQ  
 
 ---
 
-## 🚀 Proyectos Destacados  
+## 🚀 Featured Projects  
 
 📂 **Frontend**:  
-- **[PolVazquezTechApp](https://github.com/PolVazquez/PolVazquezTechApp)**: Aplicación web creada con **Blazor WebAssembly** para mostrar mis proyectos y habilidades.
+- **[PolVazquezTechApp](https://github.com/PolVazquez/PolVazquezTechApp)**: Web application built with **Blazor WebAssembly** to showcase my projects and skills.
 
 📂 **Backend**:  
-- **[PolVazquezTech.Backend.PHP](https://github.com/PolVazquez/PolVazquezTech.Backend.PHP)**: Backend en **PHP (Symfony)** optimizado para un rendimiento sólido.  
-- **[PolVazquezTech.Backend.DotNet](https://github.com/PolVazquez/PolVazquezTech.Backend.DotNet)**: API moderna en **.NET Core**, diseñada bajo principios de microservicios.  
-- **[PolVazquezTech.Backend.Python](https://github.com/PolVazquez/PolVazquezTech.Backend.Python)**: API RESTful en **Python**, perfecta para escenarios de alta escalabilidad.  
+- **[PolVazquezTech.Backend.PHP](https://github.com/PolVazquez/PolVazquezTech.Backend.PHP)**: Backend in **PHP (Symfony)** optimized for solid performance.  
+- **[PolVazquezTech.Backend.DotNet](https://github.com/PolVazquez/PolVazquezTech.Backend.DotNet)**: Modern **.NET Core** API, designed under microservices principles.  
+- **[PolVazquezTech.Backend.Python](https://github.com/PolVazquez/PolVazquezTech.Backend.Python)**: **Python** RESTful API, perfect for high scalability scenarios.  
 
 ---
 
-## 🔧 Herramientas que Uso  
+## 🔧 Tools I Use  
 
-| **Área**         | **Herramientas**                         |
-|------------------|------------------------------------------|
-| **IDE**          | Visual Studio Code, Visual Studio        |
-| **Control de versiones** | Git, GitHub                     |
-| **Colaboración** | Azure DevOps                            |
+| **Area**         | **Tools**                                  |
+|------------------|--------------------------------------------|
+| **IDE**          | Visual Studio Code, Visual Studio          |
+| **Version Control** | Git, GitHub                             |
+| **Collaboration** | Azure DevOps                              |
 
 ---
 
-## 🌐 Conéctate Conmigo  
+## 🌐 Connect with Me  
 
 - **LinkedIn**: [Pol Vázquez Albarracín](https://www.linkedin.com/in/polv%C3%A1zquezalbarrac%C3%ADn/)  
 - **GitHub**: [@PolVazquez](https://github.com/PolVazquez)  
-- **Correo Electrónico**: polvazquezalbarracin@gmail.com  
+- **Email**: polvazquezalbarracin@gmail.com  
 
 ---
 
-⭐ **Explora mis repositorios y colaboremos juntos para construir algo increíble. El código es siempre mejor en equipo.**  
+⭐ **Explore my repositories and let's collaborate to build something amazing. Code is always better in a team.**  
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PolVazquez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PolVazquez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PolVazquez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
