@@ -31,14 +31,13 @@ I'm a developer passionate about technology. I enjoy working on backend and fron
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
 - ![Razor](https://img.shields.io/badge/-Razor-007ACC?logo=dotnet&logoColor=white)  
-- ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=dotnet&logoColor=white)  
-- ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white)  
+- ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=dotnet&logoColor=white)    
 
 ### 🗄️ Databases  
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+  
 
 ### ☁️ DevOps and Methodologies  
 - ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)  
