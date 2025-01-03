@@ -52,13 +52,8 @@ I'm a developer passionate about technology. I enjoy working on backend and fron
 
 ## 🚀 Featured Projects  
 
-📂 **Frontend**:  
-- **[PolVazquezTechApp](https://github.com/PolVazquez/PolVazquezTechApp)**: Web application built with **Blazor WebAssembly** to showcase my projects and skills.
-
-📂 **Backend**:  
-- **[PolVazquezTech.Backend.PHP](https://github.com/PolVazquez/PolVazquezTech.Backend.PHP)**: Backend in **PHP (Symfony)** optimized for solid performance.  
-- **[PolVazquezTech.Backend.DotNet](https://github.com/PolVazquez/PolVazquezTech.Backend.DotNet)**: Modern **.NET Core** API, designed under microservices principles.  
-- **[PolVazquezTech.Backend.Python](https://github.com/PolVazquez/PolVazquezTech.Backend.Python)**: **Python** RESTful API, perfect for high scalability scenarios.  
+📂 **Dungeon Master AI**:  
+- **[DungeonMaster](https://github.com/PolVazquez/DungeonMaster)**: Web application built with **Blazor WebAssembly**, API in **Asp.Net** and different backends **(.Net, Python, php)** to showcase my projects and skills.  
 
 ---
 
