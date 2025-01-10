@@ -53,8 +53,7 @@ I'm a developer passionate about technology. I enjoy working on backend and fron
 ## 🚀 Featured Projects  
 
 📂 **Dungeon Master AI**:  
-- **[DungeonMaster](https://github.com/PolVazquez/DungeonMaster)**: Web application built with **Blazor WebAssembly**, API in **Asp.Net** and different backends **(.Net, Python, php)** to showcase my projects and skills.  
-
+- **[DungeonMaster](https://github.com/PolVazquez/DungeonMaster)**: Web application built with **Blazor WebAssembly**, API in **Asp.Net** and backend **(.Net)**
 ---
 
 ## 🔧 Tools I Use  
